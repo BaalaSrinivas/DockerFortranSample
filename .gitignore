@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/.vs
+/SampleFortran/.vs/SampleFortran/v15
+/SampleFortran/SampleFortran/Debug
+/SampleFortran/SampleFortran/ReadMe.txt
+/SampleFortran/SampleFortran/SampleFortran.u2d
+/SampleFortran
